@@ -5,7 +5,7 @@
 <img src="https://camo.githubusercontent.com/2b526261e88935a5671e4a20a23e230c06dc6e9192706fa9d40190bf0f58a050/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f37622f34622f66613762346264633362326637336537343965356332633634366434616531332e676966"/>
 
 
-`Hi there! I am Aspiring Full Stack Web Development with proficiency in JavaScript, TypeScript, HTML, CSS, React, Tailwind CSS, Chakra UI, Nodejs Express and MongoDb and currently learning a Nextjs. Strong In Design And Integration With Intuitive Problem-Solving Skills.
+`Hi there! I am Priya Kumari a Aspiring Full Stack Web Development with proficiency in JavaScript, TypeScript, HTML, CSS, React, Tailwind CSS, Chakra UI, Nodejs Express and MongoDb and currently learning a Nextjs. Strong In Design And Integration With Intuitive Problem-Solving Skills.
 My goal is to develop software products that solve real-world problems and enhance people's lives, enabling them to achieve their goals and increase productivity.`
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyakumariYt&label=Profile%20views&color=0e75b6&style=flat" alt="PriyakumariYt" /> </p>
