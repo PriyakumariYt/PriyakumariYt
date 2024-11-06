@@ -28,9 +28,7 @@ My goal is to develop software products that solve real-world problems and enhan
 <a href="https://www.linkedin.com/in/priya-kumari-1b181322b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priya-kumari-1b181322b/" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-[React](https://img.shields.io/badge/react-%231572B6.svg?style=plastic&logo=react&logoColor=white) 
+
 
 ## 🚀 Languages and Tools:
 <p align="left">
