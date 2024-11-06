@@ -13,7 +13,7 @@ My goal is to develop software products that solve real-world problems and enhan
 
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Nextjs Typescript Javascript Tailwind MongoDB Nodejs Express**
+- 🌱 I’m currently learning **Nextjs, Typescript, Javascript, React, Tailwind, MongoDB, Nodejs, Express**
 
 - 👨‍💻 All of my projects are available at [https://priyakumariyt.github.io/](https://priyakumariyt.github.io/)
 
